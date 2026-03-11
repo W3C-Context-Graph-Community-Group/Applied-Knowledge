@@ -9,4 +9,4 @@ The Context Graph Group is primarily concerned with surfacing knowledge gaps bet
 |Decision Interface Committee Chair|Dr. Lorien Pratt|
 |Applied Knowledge Committee Chair|Audrey Depeige|
 |Syntax & Serialization|Juan Cruz Viotti|
-|Business & Industry|<pending>|
+|Business & Industry|*pending*|
