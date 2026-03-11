@@ -1,2 +1,2 @@
 # Applied-Knowledge
-The Context Graph Group is primarily concerned with identifying and filling in knowledge gaps between sender, system, and receiver. The Applied Knowledge Committee is responsible for measures of accuracy, reliability, consistency, and robustness of that process.
+The Context Graph Group is primarily concerned with identifying and filling in knowledge gaps between sender, system, and receiver. The Applied Knowledge Committee is responsible for designing assessments of accuracy, reliability, consistency, and robustness of that process against real-world knowledge problems. This will enable the knowledge industry, as a whole, to have reliable metrics and measures of risk when AI agents and humans work on knowledge problems.
