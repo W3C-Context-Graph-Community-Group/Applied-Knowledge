@@ -8,6 +8,6 @@ The Context Graph Group is primarily concerned with surfacing knowledge gaps bet
 |Semantic Alignment Committee Chair|Kurt Cagle|
 |Decision Interface Committee Chair|Dr. Lorien Pratt|
 |Applied Knowledge Committee Chair|Audrey Depeige|
-|Syntax & Serialization|Juan Cruz Viotti|
-|Business & Industry|Anthony Marquardt|
-|Agentic AI|Alex Brown|
+|Syntax & Serialization Committee Chair|Juan Cruz Viotti|
+|Business & Industry Committee Chair|Anthony Marquardt|
+|Agentic AI Committee Chair|Alex Brown|
